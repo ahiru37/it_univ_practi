@@ -1,0 +1,29 @@
+.container{
+    width: 800px;
+    margin: auto;
+}
+body{
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+h2{
+    outline: 1px solid black;
+    margin: 0 auto;
+    height: 200px;
+    font-size: 30px;
+}
+h3{
+    outline: 1px solid black ;
+    margin: 0 auto;
+    height: 200px;
+    font-size: 30px;
+}
+h4{
+    outline: 1px solid black ;
+    margin: 0 auto;
+    height: 200px;
+    font-size: 30px;
+}
